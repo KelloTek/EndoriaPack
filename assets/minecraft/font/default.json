@@ -1,0 +1,53 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ⱥ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ɯ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/media.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ʃ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bamboo.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ƀ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/ultimate.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ȕ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/premium.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ȥ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/player.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Ȳ"]
+        }
+    ]
+}
