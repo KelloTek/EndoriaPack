@@ -2,6 +2,62 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "minecraft:gui/title.png",
+            "ascent": 64,
+            "height": 128,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letter/e.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["Æ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letter/n.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["Ñ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letter/d.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["Đ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letter/o.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["Ø"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letter/r.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["Ř"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letter/i.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["Ĭ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letter/a.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["Ā"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:ranks/admin.png",
             "ascent": 8,
             "height": 8,
